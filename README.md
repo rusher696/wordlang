@@ -1,4 +1,8 @@
 # wordlang
-A test of lightweight, accurate textblob, without using it.
-Includes sentiments, adjusted polarity, similarity AIs, analyzing (Positive, Negative, Neutral) and more.
-Useful for AIs that need to understand human language.
+A test of lightweight, accurate human understanding, without making any fuss.
+Includes polarity, sentiment, transformation, and more without eating RAM.
+# How to use
+1. Go into your terminal
+2. Type in "curl -L -o wordlang-0.1.0.zip https://github.com/rusher696/wordlang/archive/refs/heads/main.zip"
+3. Do the same for the README.md
+4. Done!
