@@ -1,0 +1,2 @@
+[console_scripts]
+wordlang = WordLang.__main__:main

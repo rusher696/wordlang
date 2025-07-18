@@ -1,0 +1,18 @@
+[project]
+name = "wordlang"
+version = "1.0.0"
+description = "A lightweight text analysis module with emotion detection and utility tools."
+readme = "README.md"
+requires-python = ">=3.6"
+license = {text = "MIT"}
+authors = [
+  {name = "The Curious Coder", email = "No@email.com"}
+]
+keywords = ["nlp", "text", "sentiment", "language", "analysis"]
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project.scripts]
+wordlang = "WordLang.__main__:main"

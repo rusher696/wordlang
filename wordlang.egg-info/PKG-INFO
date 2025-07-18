@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: wordlang
+Version: 1.0.0
+Summary: A lightweight text analysis module with emotion detection and utility tools.
+Author-email: The Curious Coder <No@email.com>
+License: MIT
+Keywords: nlp,text,sentiment,language,analysis
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: license-file

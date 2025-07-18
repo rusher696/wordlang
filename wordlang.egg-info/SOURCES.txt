@@ -1,0 +1,9 @@
+LICENSE
+pyproject.toml
+WordLang/__init__.py
+WordLang/__main__.py
+wordlang.egg-info/PKG-INFO
+wordlang.egg-info/SOURCES.txt
+wordlang.egg-info/dependency_links.txt
+wordlang.egg-info/entry_points.txt
+wordlang.egg-info/top_level.txt
